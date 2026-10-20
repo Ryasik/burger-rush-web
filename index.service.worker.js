@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1792368225|9868401';
+const CACHE_VERSION = '1792531772|3738452';
 /** @type {string} */
 const CACHE_PREFIX = 'Burger Rush-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
